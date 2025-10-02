@@ -1,6 +1,6 @@
 # 🍲 Recipe Image Dataset – Exploratory Data Analysis (EDA)
 
-This repository contains Exploratory Data Analysis (EDA) performed on a dataset designed for a Deep Learning–based “Image to Recipe” model, which predicts ingredients and recipes from food images.
+This repository contains Exploratory Data Analysis (EDA) performed on a dataset .
 
 ![Main page dashboard](https://github.com/farook8090/Indian-Food-and-Its-Recipes-Dataset/blob/d25a3d4f448155170d71cec84cebce4b4d1c9a5e/1.%20Distribution%20of%20Course.png)
 
