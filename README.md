@@ -45,5 +45,7 @@ Prepared a strong foundation for model building (Image-to-Recipe).
 
 # 📂 Dataset Access
 
+https://www.kaggle.com/datasets/kishanpahadiya/indian-food-and-its-recipes-dataset-with-images
+
 Dataset sourced from Archana’s Kitchen
  (scraped using Python).
