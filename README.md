@@ -10,6 +10,10 @@ This repository contains Exploratory Data Analysis (EDA) performed on a dataset 
 
 ![Main page dashboard](https://github.com/farook8090/Indian-Food-and-Its-Recipes-Dataset/blob/d25a3d4f448155170d71cec84cebce4b4d1c9a5e/1.Distribution%20of%20cuisines%20with%20top%20highlighted.png)
 
+# Outliers detection using IQR Method:
+
+![Main page dashboard](https://github.com/farook8090/Indian-Food-and-Its-Recipes-Dataset/blob/24e1a31aa2a94933c569ec399f63bbe971c5312a/1.%20Outliiers.png)
+
 
 
 # 📊 About the Dataset
