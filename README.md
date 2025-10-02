@@ -41,11 +41,11 @@ Generate insights for building a robust deep learning model.
 
 # 🧑‍💻 Tools & Libraries
 
-Python (Pandas, NumPy)
+        ### Python (Pandas, NumPy)
 
-Visualization (Matplotlib, Seaborn, Plotly)
+        ### Visualization (Matplotlib, Seaborn, Plotly)
 
-Data Cleaning & Preprocessing
+        ### Data Cleaning & Preprocessing
 
 # 🚀 Outcomes
 
